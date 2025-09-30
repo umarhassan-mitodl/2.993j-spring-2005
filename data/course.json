@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "legacy_uid": "413b6995-0281-d604-b670-910d50872e33",
+  "instructors": {
+    "content": [
+      "ac95a6d2-c06d-6397-cf8e-2f18cfab7ab7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "42c023fd-cb96-e8fb-3e8f-f7c9c8ca197f",
+    "website": "2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005"
+  },
+  "course_title": "Introduction to Numerical Analysis for Engineering (13.002J)",
+  "hide_download": true,
+  "course_description": "This course is offered to undergraduates and introduces students to the formulation, methodology, and techniques for numerical solution of engineering problems. Topics covered include: fundamental principles of digital computing and the implications for algorithm accuracy and stability, error propagation and stability, the solution of systems of linear equations, including direct and iterative techniques, roots of equations and systems of equations, numerical interpolation, differentiation and integration, fundamentals of finite-difference solutions to ordinary differential equations, and error and convergence analysis. The subject is taught the first half of the term.\n\nThis subject was originally offered in Course 13 (Department of Ocean Engineering) as 13.002J. In 2005, ocean engineering became part of Course 2 (Department of Mechanical Engineering), and this subject was renumbered 2.993J.\n",
+  "department_numbers": [
+    "2",
+    "10"
+  ],
+  "extra_course_numbers": "10.002J",
+  "primary_course_number": "2.993J",
+  "course_image_thumbnail": {
+    "content": "7d1a4435-2263-64f9-679b-9884b161b3b2",
+    "website": "2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "842be093-d176-4021-bbb1-e98d73a59342",
+  "site_short_id": "2.993j-spring-2005",
+  "site_url_path": "courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005",
+  "title": "Course Metadata"
+}
